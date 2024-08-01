@@ -6,7 +6,7 @@ author: Zifei Nie
 # categories: jekyll
 banner:
   video: "/assets/videos/banner/vid.mp4"
-  loop: false
+  loop: true
   volume: 0.8
   start_at: 8.5
   image: "/assets/images/banners/banner.jpg"
