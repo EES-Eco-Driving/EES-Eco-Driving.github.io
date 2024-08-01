@@ -5,7 +5,7 @@ subtitle: Delve into Distributed Energy Resources.
 author: Zifei Nie
 # categories: jekyll
 banner:
-  video: "/assets/videos/banner/vid.mp4"
+  video: "/assets/videos/banner/show.mp4"
   loop: true
   volume: 0.8
   start_at: 8.5
