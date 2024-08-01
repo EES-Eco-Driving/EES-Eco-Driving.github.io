@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Eco-Driving?
-subtitle: Delve into Distributed Energy Resources.
+subtitle: When Autonomous driving meets Decarbonization...
 author: Zifei Nie
 # categories: jekyll
 banner:
@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: "/assets/images/banners/banner.jpg"
+  image: "/assets/images/banners/face.jpg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
