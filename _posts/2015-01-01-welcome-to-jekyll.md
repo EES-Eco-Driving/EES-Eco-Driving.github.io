@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Microgrid Overview!
+title: What is Eco-Driving?
 subtitle: Delve into Distributed Energy Resources.
-author: Jacob
+author: Zifei Nie
 # categories: jekyll
 banner:
   video: "/assets/videos/banner/vid.mp4"

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research Introduction
-subtitle: Operation and control of microgrids
+title: Featured Research achievements 
+subtitle: Check what we have done
 excerpt_image: https://github.com/jeffreytse/jekyll-theme-yat/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505
 categories: markdown
 tags: [example]
