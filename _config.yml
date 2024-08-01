@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Microgrid
-email: ees.microgrid@gmail.com
+title: Eco-Driving
+email: ees.ecodriving@gmail.com
 author: EES-Lab
 
 # Copyright setting
@@ -40,7 +40,7 @@ author: EES-Lab
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "EES-Lab (c) 2019-{currentYear}"
+copyright: "EES-Lab (c) 2018-{currentYear}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -162,8 +162,8 @@ header_pages:
 # Page default value
 # defaults:
 # home:
-heading: "Embrace Microgrids"
-subheading: "The power of independence for a sustainable future..."
+heading: "Intelligent Energy-Efficient Driving"
+subheading: "Inspires the Next Generation Sustainable Intelligent Transportation Systems..."
 #     banner: "Your image url"
 
 # Banner default settings
