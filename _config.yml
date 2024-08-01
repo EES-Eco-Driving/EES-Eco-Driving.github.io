@@ -160,7 +160,7 @@ yat:
 #   - about.md
 
 # Page default value
- defaults:
+# defaults:
    home:
      heading: "Intelligent Energy-Efficient Driving"
      subheading: "Inspire the Next Generation Sustainable Intelligent Transportation Systems"
