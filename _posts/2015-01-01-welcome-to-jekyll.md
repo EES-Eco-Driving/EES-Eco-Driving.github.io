@@ -29,6 +29,8 @@ applications.
 
 ![img.png](/assets/images/banners/DS.png)
 
+![img2.png](/assets/images/banners/ED.png)
+
 Generally the key components include:
 1. Electricity generation resources (e.g., solar arrays, diesel or natural gas
 generators, wind turbines)
