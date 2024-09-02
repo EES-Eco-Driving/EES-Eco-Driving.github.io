@@ -18,19 +18,22 @@ banner: "/assets/images/banners/home.jpg"
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh; /* 使容器占据全屏高度 */
+            min-height: 100vh; /* 使容器至少占据全屏高度 */
+            margin: 0;
+            padding: 0;
+        }
+        /* 移除body的默认边距 */
+        body {
+            margin: 0;
+            padding: 0;
         }
     </style>
 </head>
 <body>
     <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/VmS5DzZRV-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</body>
-</html>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VmS5DzZRV-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture
 
-
-<br><br>
+<br>
 <style>
 .blinking-text {
     color: red;
