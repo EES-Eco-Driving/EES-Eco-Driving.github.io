@@ -8,10 +8,28 @@ title: Experimental Setup
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Embedded Video</title>
+    <style>
+        /* 让视频容器居中对齐 */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        
+        /* 保证视频本身水平居中 */
+        video {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
 </head>
 <body>
 
-<h1>Watch the Video Below</h1>
 
 <video width="640" height="360" controls>
     <source src="<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113066540794407&bvid=BV1ZcHkeZEG9&cid=25701845329&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>" type="video/mp4">
@@ -20,6 +38,7 @@ title: Experimental Setup
 
 </body>
 </html>
+
 
 <br><br>
 
