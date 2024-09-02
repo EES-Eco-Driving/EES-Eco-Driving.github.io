@@ -1,0 +1,44 @@
+2024-09-02-welcome-to-jekyll
+---
+layout: post
+title: Research Highlights
+subtitle: Real-time optimization for eco-driving control of CAVs with limited computational resources.
+author: Zifei Nie
+# categories: jekyll
+banner:
+  video: "/assets/videos/banner/vid.mp4"
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: "/assets/images/banners/banner.jpg"
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 3.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+# tags: jekyll theme yat
+top: 1
+sidebar: []
+---
+<h1 style="font-size: 1.5rem">Check out our featured research projects below:</h1>
+<p><i>More details can be accessed via</i> <a href="https://scholar.google.com/citations?user=grFpkowAAAAJ&hl=en" target="_blank"><button>Google_Scholar@Zifei_Nie</button></a>&#128515;</p>
+<br>
+
+**<i>#1. <u>Real-Time Predictive Cruise Control for Eco-Driving</u></i>**
+  <p>To address the energy-saving driving requirements in urban traffic environment, a real-implementable predictive cruise control (PCC) system consisting of dual model predictive controllers for electric vehicles
+(EVs) has been developed, as shown in the Figure below, considering constraints of surrounding traffic participants and upcoming traffic signal information. Our simulative experiments based on the real traffic data collected from urban area in Fukuoka, Japan, demonstrated the 8.5%~15.6% energy-saving performance of the proposed PCC system for EVs.</p>
+<br><br>
+![PCC](/assets/images/banners/di.png)
+
+**<i>#2. <u>Energy-Efficient Lane-Change Motion Planning for Personalized Autonomous Driving</u></i>**
+<p>With the aim of realizing energy-efficient, personalized, and safe mobility, a novel lane-changing motion planning strategy for personalized energy-efficient autonomous driving has been proposed, as shown in the
+Figure below. In this work, the resulting nonlinear model predictive control strategy was solved through parallel computing for real-time implementation. And we took the lead in tackling eco-driving in the lane-changing scenario while considering the features of human driving styles.</p>
+<br><br>
+![EFLC](/assets/images/banners/dii.png)
+
+**<i>#3. <u>Human-Inspired Anticipative Cruise Control System</u></i>**
+<p>A real-implementable human-inspired anticipative cruise control strategy for connected and automated vehicles (CAVs) has been proposed, as shown in following Figure, to align with the reactive driving preferences
+demonstrated by human drivers while leveraging their anticipative capabilities to enhance the overall traffic energy and efficiency in a mixed traffic flow. Our results indicate that the whole traffic flow energy economy can be improved by 4.58% by leveraging one individual CAV.</p>
+<br><br>
+![HIACC](/assets/images/banners/diii.png)
